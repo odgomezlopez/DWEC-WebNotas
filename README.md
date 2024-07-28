@@ -15,7 +15,7 @@ DWEC-WebNotas es una aplicación web diseñada para gestionar notas. Esta aplica
 - HTML
 - CSS
 - JavaScript
--- [Drag and Drop Sortable List With Javascript (Simple Example)](https://code-boxx.com/drag-drop-sortable-list-javascript/#sec-list)
+- [Drag and Drop Sortable List With Javascript (Simple Example)](https://code-boxx.com/drag-drop-sortable-list-javascript/#sec-list)
 
 ## Instalación
 
